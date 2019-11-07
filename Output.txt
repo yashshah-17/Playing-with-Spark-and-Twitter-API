@@ -1,0 +1,2 @@
+[('Education', 931), ('Canada', 1782), ('University', 1289), ('Dalhousie', 286), ('Expensive', 8), ('Good school', 1), ('Good schools', 0), ('Bad school', 0), ('Bad schools', 0), 
+('Poor school', 0), ('Poor schools', 0), ('Faculty', 19), ('Computer Science', 7), ('Graduate', 50)]
